@@ -1,0 +1,34 @@
+body{
+    background-image: url("../images/popcorn-1085072_1920.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    opacity: 0.5;
+    color: white;
+    text-align: center;
+}
+            
+#titulo{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: blue;
+    opacity: 0.5;
+    color: white;
+    text-align: center;  
+}
+
+#alinhamentocentral{
+    position: relative;
+    top: 210px;
+    left: auto; 
+}
+
+

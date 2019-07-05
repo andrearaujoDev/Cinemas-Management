@@ -1,0 +1,14 @@
+.alinhamentocentral{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    
+}
+
+body{
+    background-image: url("../images/admission-2974645_1920.jpg"); 
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
